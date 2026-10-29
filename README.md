@@ -1,0 +1,2 @@
+# informatikaaaa
+пупупу
