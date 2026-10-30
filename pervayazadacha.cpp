@@ -11,6 +11,8 @@ int main() {
     cout << s << endl;
     c = max(r, s);
     cout << c << endl;
+    cout << "press enter";
+    cin.ignore(INT_MAX, '\n');
     cin.get();
     return 0;
 }
