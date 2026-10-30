@@ -11,5 +11,6 @@ int main() {
     cout << s << endl;
     c = max(r, s);
     cout << c << endl;
+    cin.get();
     return 0;
 }
