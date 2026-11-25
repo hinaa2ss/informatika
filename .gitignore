@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/Project1/x64
+/Project1/cookie.png
+/Project1
+/.vs/informatika/v18
+/.vs/informatika/FileContentIndex
+/.vs
